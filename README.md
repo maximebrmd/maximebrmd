@@ -1,15 +1,15 @@
 # Hello there :sunny:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/maximebrmd/count.svg" />
-</p>
-
-## About me
-
 I'm Maxime Bourmaud 👨‍💻. A Software Engineer at [Skeepers](https://skeepers.io/) based in Nantes, France. I love working with GraphQL, Node.js, React.js & Golang.
 
 I am also familiar with a variety of other programming languages and tools & enjoy learning new technologies.
+
+## Stats :chart_with_upwards_trend:
+
+<img width="350px" src="https://github-readme-stats.vercel.app/api?username=maximebrmd&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="maximebrmd" />
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=maximebrmd&label=Profile%20Views&color=5&icon=8&pretty=false)](https://visitcount.itsvg.in)
 
 ## Things I am passionate about
 
@@ -21,4 +21,4 @@ I am also familiar with a variety of other programming languages and tools & enj
 
 ## Get in touch :coffee:
 
-- [LinkedIn](https://www.linkedin.com/in/maximebrmd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maximebrmd)
