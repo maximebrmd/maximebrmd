@@ -1,6 +1,6 @@
 # Hello there :sunny:
 
-I'm Maxime Bourmaud 👨‍💻. A Software Engineer at [Skeepers](https://skeepers.io/) based in Nantes, France. I love working with GraphQL, Node.js
+I'm Maxime Bourmaud 👨‍💻. A Software Engineer based in Nantes, France. I love working with GraphQL, Node.js
 I am also familiar with a variety of other programming languages and tools & enjoy learning new technologies.
 
 ## Stats :chart_with_upwards_trend:
