@@ -1,7 +1,6 @@
 # Hello there :sunny:
 
-I'm Maxime Bourmaud 👨‍💻. A Software Engineer based in Nantes, France. I love working with GraphQL, Node.js
-I am also familiar with a variety of other programming languages and tools & enjoy learning new technologies.
+I'm Maxime Bourmaud 👨‍💻. A Software Engineer based in Réunion Island, France. I love working with a wide variety of programming languages, tools and I enjoy learning new technologies.
 
 ## Stats :chart_with_upwards_trend:
 
