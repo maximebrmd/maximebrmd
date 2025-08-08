@@ -1,6 +1,6 @@
 # Hello there :sunny:
 
-I'm Maxime Bourmaud 👨‍💻. A Software Engineer based in Reunion Island 🇷🇪 (🇫🇷). I love working with a wide variety of programming languages, tools and I enjoy learning new technologies.
+I'm Maxime Bourmaud 👨‍💻. A Software Engineer based in Europe (France rn) 🇫🇷. I love working with a wide variety of programming languages, tools and I enjoy learning new technologies.
 
 ## Stats :chart_with_upwards_trend:
 
