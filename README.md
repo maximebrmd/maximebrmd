@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maxime Bourmaud 👋</h1>
 
 <p align="center">
-  Software Engineer based in Europe 🇫🇷 — I build with TypeScript end to end and enjoy picking up new tools along the way.
+  Software Engineer based in Europe 🇫🇷 — I love working with a wide variety of programming languages and tools, and I enjoy learning new technologies.
 </p>
 
 <p align="center">
