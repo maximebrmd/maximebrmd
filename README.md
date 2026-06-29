@@ -31,7 +31,6 @@
 
 - **[supabase-axi](https://github.com/maximebrmd/supabase-axi)** — Agent-ergonomic CLI for Supabase, wrapping the Supabase CLI and Management API for coding agents. `TypeScript`
 - **[notion-axi](https://github.com/maximebrmd/notion-axi)** — An AXI (Agent eXperience Interface) for Notion: a token-efficient CLI for AI agents to search, read, and write Notion pages & databases. `TypeScript`
-- **[who-said-it](https://github.com/maximebrmd/who-said-it)** — Guess who said what: a Three.js (React Three Fiber) WhatsApp guessing game. `TypeScript` · `React Three Fiber`
 
 ---
 
