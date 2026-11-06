@@ -69,4 +69,4 @@ Agent-ergonomic CLIs that give coding agents token-efficient access to the tools
 
 ## Get in touch
 
-[LinkedIn](https://linkedin.com/in/maximebrmd) is the best place to reach me.
+Find me on [LinkedIn](https://linkedin.com/in/maximebrmd) and [X](https://x.com/maxime_bourmaud).
