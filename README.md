@@ -63,7 +63,7 @@ Agent-ergonomic CLIs that give coding agents token-efficient access to the tools
   </tr>
   <tr>
     <td><b>Cloud &amp; ops</b></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" /> <img src="https://img.shields.io/badge/Grafana_LGTM-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana LGTM" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" /> <img src="https://img.shields.io/badge/Grafana_LGTM-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana LGTM" /></td>
   </tr>
 </table>
 
