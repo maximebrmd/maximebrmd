@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Gloups dusk icon"><defs><linearGradient id="bg-dusk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1a2640"/><stop offset="1" stop-color="#3b3029"/></linearGradient></defs><rect width="1024" height="1024" fill="url(#bg-dusk)"/><g transform="translate(122 150) scale(2.35)"><path fill="#f7f8fc" fill-rule="evenodd" d="M86 23
+C108 12 123 36 143 50
+C171 68 192 73 219 70
+C247 66 263 62 281 65
+C301 69 317 81 322 102
+C334 151 311 200 272 233
+C232 269 173 290 121 287
+C68 285 29 263 15 227
+C3 197 4 156 17 119
+C29 78 55 38 86 23Z
+M114 119
+C149 112 202 96 243 104
+C265 108 277 115 277 132
+C275 155 254 170 227 177
+C199 186 164 185 141 177
+C122 171 110 171 105 177
+C98 188 109 199 123 211
+C132 220 133 229 124 229
+C102 229 82 220 64 205
+C41 185 43 159 58 145
+C71 132 93 123 114 119Z"/></g></svg>
