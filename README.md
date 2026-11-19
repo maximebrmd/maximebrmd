@@ -1,28 +1,39 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-light.svg" width="100%" alt="Maxime Bourmaud. Founder of Gloups, contributor to Lilo." />
+  <img src="assets/banner-light.svg" width="100%" alt="Maxime Bourmaud. Founder of Peal, contributor to Lilo." />
 </picture>
 
-French software engineer based in Helsinki. I'm building a health companion, and tools that help AI agents work alongside people.
+French software engineer based in Helsinki. I'm building Peal, a social media scheduler for teams, and tools that help AI agents work alongside people. On the side, I make Gloups, an AI health companion.
 
 ## What I'm working on
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/peal-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/peal-light.svg" />
+        <img src="assets/peal-light.svg" width="64" height="64" alt="Peal logo" />
+      </picture>
+      <h3>Peal</h3>
+      <sub><b>FOUNDER</b></sub>
+      <p>Schedule social posts with your team. Peal is fair source, so you can also run it yourself, and it ships SDKs in eight languages.</p>
+      <p><a href="https://peal.social">peal.social</a></p>
+    </td>
+    <td width="33%" valign="top">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/gloups-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/gloups-light.svg" />
         <img src="assets/gloups-light.svg" width="64" height="64" alt="Gloups app icon" />
       </picture>
       <h3>Gloups</h3>
-      <sub><b>FOUNDER</b></sub>
+      <sub><b>SIDE PROJECT</b></sub>
       <p>An AI health companion. Keep a food diary, log your water, and chat with Gloop, a coach that reads your diary and knows your goals.</p>
       <p><em>A little care, every day.</em></p>
       <p><a href="https://gloups.app">gloups.app</a></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://getlilo.app"><img src="assets/lilo.png" width="64" height="64" alt="Lilo app icon" /></a>
       <h3>Lilo</h3>
       <sub><b>CONTRIBUTOR</b></sub>
