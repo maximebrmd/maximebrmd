@@ -1,19 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Terminal: whoami, then a resume download that turns into a rickroll">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Terminal: whoami says founder of Peal, then a resume download that turns into a rickroll">
+  <defs>
+    <linearGradient id="peal" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="360" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ffca00"/>
+      <stop offset=".25" stop-color="#b9a6ff"/>
+      <stop offset=".5" stop-color="#415eee"/>
+      <stop offset=".75" stop-color="#b9a6ff"/>
+      <stop offset="1" stop-color="#ffca00"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="360 0" dur="2.4s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 24px; }
-    .p { fill: #8a90a2; } .w { fill: #f7f8fc; } .l { fill: #cbbdff; } .g { fill: #ffca00; font-weight: 700; } .d { fill: #8a90a2; }
+    .p { fill: #8a90a2; } .w { fill: #f7f8fc; } .g { fill: #ffca00; font-weight: 700; } .d { fill: #8a90a2; }
+    .peal { fill: url(#peal); font-weight: 700; }
     .all { animation: all 14s infinite; }
     .c1 { animation: c1 14s infinite; } .c2 { animation: c2 14s infinite; }
     .s2 { animation: s2 14s infinite; } .s4 { animation: s4 14s infinite; } .s5 { animation: s5 14s infinite; }
-    .bar { transform-box: fill-box; transform-origin: left; animation: bar 14s infinite; }
+    .v1 { animation: v1 14s infinite; } .v2 { animation: v2 14s infinite; } .v3 { animation: v3 14s infinite; }
+    .spin { transform-box: view-box; transform-origin: 50px 232px; animation: spin 1.2s linear infinite; }
     .cur { animation: blink 1s steps(1) infinite; }
     @keyframes all { 0%, 95% { opacity: 1 } 98%, 100% { opacity: 0 } }
     @keyframes c1 { 0%, 3.5% { transform: translateX(0); animation-timing-function: steps(8, end) } 9%, 100% { transform: translateX(118px) } }
     @keyframes c2 { 0%, 18% { transform: translateX(0); animation-timing-function: steps(17, end) } 28%, 100% { transform: translateX(258px) } }
     @keyframes s2 { 0%, 11% { opacity: 0 } 12%, 100% { opacity: 1 } }
-    @keyframes s4 { 0%, 30% { opacity: 0 } 31%, 100% { opacity: 1 } }
-    @keyframes bar { 0%, 31% { transform: scaleX(0); animation-timing-function: cubic-bezier(.3, 0, .2, 1) } 52% { transform: scaleX(.97); animation-timing-function: linear } 58%, 100% { transform: scaleX(1) } }
+    @keyframes s4 { 0%, 30% { opacity: 0 } 31%, 59% { opacity: 1 } 60%, 100% { opacity: 0 } }
+    @keyframes v1 { 0%, 30% { opacity: 0 } 31%, 40% { opacity: 1 } 41%, 100% { opacity: 0 } }
+    @keyframes v2 { 0%, 40% { opacity: 0 } 41%, 50% { opacity: 1 } 51%, 100% { opacity: 0 } }
+    @keyframes v3 { 0%, 50% { opacity: 0 } 51%, 59% { opacity: 1 } 60%, 100% { opacity: 0 } }
     @keyframes s5 { 0%, 60% { opacity: 0 } 61%, 100% { opacity: 1 } }
+    @keyframes spin { to { transform: rotate(360deg) } }
     @keyframes blink { 50% { opacity: 0 } }
   </style>
   <rect width="1200" height="340" rx="16" fill="#16171c"/>
@@ -23,13 +38,15 @@
   <g class="all">
     <text x="40" y="100"><tspan class="p">$ </tspan><tspan class="w">whoami</tspan></text>
     <rect class="c1" x="38" y="76" width="130" height="34" fill="#16171c"/>
-    <text x="40" y="140" class="s2"><tspan class="w">Maxime Bourmaud.</tspan><tspan class="l"> Founder of Peal, contributor to Lilo.</tspan></text>
+    <text x="40" y="140" class="s2"><tspan class="w">Maxime Bourmaud. </tspan><tspan class="peal">Founder of Peal.</tspan></text>
     <text x="40" y="195"><tspan class="p">$ </tspan><tspan class="w">open resume.pdf</tspan></text>
     <rect class="c2" x="38" y="171" width="270" height="34" fill="#16171c"/>
     <g class="s4">
-      <rect x="40" y="222" width="520" height="18" rx="9" fill="#2a2d38"/>
-      <rect class="bar" x="40" y="222" width="520" height="18" rx="9" fill="#b9a6ff"/>
-      <text x="584" y="238" class="d">downloading resume.pdf</text>
+      <g class="spin"><path fill="url(#peal)" d="M50 220 L53 229 L62 232 L53 235 L50 244 L47 235 L38 232 L47 229 Z M41.5 223.5 L50 232 L58.5 223.5 M41.5 240.5 L50 232 L58.5 240.5" stroke="url(#peal)" stroke-width="2.4" stroke-linecap="round"/></g>
+      <text x="72" y="240" class="peal v1">Locating resume.pdf…</text>
+      <text x="72" y="240" class="peal v2">Reticulating splines…</text>
+      <text x="72" y="240" class="peal v3">Asking the agent nicely…</text>
+      <text x="480" y="240" class="d">(esc to interrupt)</text>
     </g>
     <g class="s5">
       <text x="40" y="295"><tspan class="g">jk. never gonna give you up.</tspan><tspan class="d">  (click me)</tspan></text>

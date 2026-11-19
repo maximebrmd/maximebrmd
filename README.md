@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="assets/terminal.svg" width="100%" alt="A terminal runs whoami, then starts downloading my resume" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="assets/terminal.svg" width="100%" alt="A terminal runs whoami: founder of Peal. Then it starts downloading my resume" /></a>
 
 French engineer in Helsinki, building [Peal](https://peal.social), a social media scheduler for teams.
 
