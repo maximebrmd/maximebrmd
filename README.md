@@ -6,15 +6,26 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=CBBDFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=6A4BE0" />
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=6A4BE0" alt="Building Peal, writing CLIs for coding agents, contributing to Lilo, making Gloups on the side" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side;%22Just+one+more+side+proje-%22&color=CBBDFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side;%22Just+one+more+side+proje-%22&color=6A4BE0" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side;%22Just+one+more+side+proje-%22&color=6A4BE0" alt="Building Peal, writing CLIs for coding agents, contributing to Lilo, making Gloups on the side" />
   </picture>
 </p>
 
-French software engineer based in Helsinki. I'm building Peal, a social media scheduler for teams. I also write CLIs that let coding agents use Notion and Supabase, and on the side I make Gloups, an AI health companion.
+French engineer in Helsinki. I'm building Peal, a social media scheduler for teams. I also write CLIs so coding agents can use tools like Supabase without eating their whole context window. Gloups is my side project, which is a nice way of saying I have two products and one calendar.
 
-## What I'm working on
+```ts
+const maxime = {
+  based: "Helsinki, dark by 4pm in winter, great for shipping",
+  building: ["Peal", "Gloups (side project, don't tell Peal)"],
+  contributing: "Lilo, #2 on the leaderboard nobody asked for",
+  workflow: "agents write the code, I write the vibes",
+  skills: ["TypeScript", "Effect", "saying 'ship it' to an agent"],
+  launching: "right after one more refactor",
+};
+```
+
+## Things I'm building
 
 <table>
   <tr>
@@ -26,7 +37,7 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
       </picture>
       <h3>Peal</h3>
       <sub><b>FOUNDER</b></sub>
-      <p>Schedule social posts with your team. Peal is fair source, so you can also run it yourself, and it has SDKs for eight languages.</p>
+      <p>Schedule social posts with your team. It's fair source, so you can run it yourself if you'd rather. SDKs in eight languages, which is about seven more than anyone has asked for.</p>
       <p><a href="https://peal.social">peal.social</a></p>
     </td>
     <td width="33%" valign="top">
@@ -45,7 +56,7 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
       <a href="https://getlilo.app"><img src="assets/lilo.png" width="64" height="64" alt="Lilo app icon" /></a>
       <h3>Lilo</h3>
       <sub><b>CONTRIBUTOR</b></sub>
-      <p>A free, open-source Mac browser on WebKit, with Spaces, Chrome extensions, terminal tabs and a built-in MCP server. I'm its #2 contributor, working on Split View, rendering and localization.</p>
+      <p>A free, open source Mac browser on WebKit. Spaces, Chrome extensions, terminal tabs and its own MCP server, so your agents can browse too. I'm the #2 contributor, mostly Split View, rendering and localization.</p>
       <p><em>Your internet, in bloom.</em></p>
       <p><a href="https://getlilo.app">getlilo.app</a></p>
     </td>
@@ -56,11 +67,10 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
 
 | Project | What it does | Stars |
 | --- | --- | --- |
-| **[peal](https://github.com/peal-social/peal)** | The Peal app and its SDKs for TypeScript, Python, Go, Java, C#, Ruby, PHP and Rust. Fair source, SDKs under Apache 2.0 | ![Stars](https://img.shields.io/github/stars/peal-social/peal?style=flat-square&label=%E2%98%85&color=6a4be0) |
-| **[notion-axi](https://github.com/maximebrmd/notion-axi)** | Lets a coding agent search, read and write Notion pages and databases on a small token budget | ![Stars](https://img.shields.io/github/stars/maximebrmd/notion-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
-| **[supabase-axi](https://github.com/maximebrmd/supabase-axi)** | Wraps the Supabase CLI and Management API for coding agents | ![Stars](https://img.shields.io/github/stars/maximebrmd/supabase-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
+| **[peal](https://github.com/peal-social/peal)** | The Peal app, plus SDKs for TypeScript, Python, Go, Java, C#, Ruby, PHP and Rust. The app is fair source, the SDKs are Apache 2.0 | ![Stars](https://img.shields.io/github/stars/peal-social/peal?style=flat-square&label=%E2%98%85&color=6a4be0) |
+| **[supabase-axi](https://github.com/maximebrmd/supabase-axi)** | The Supabase CLI and Management API, wrapped so coding agents can use them | ![Stars](https://img.shields.io/github/stars/maximebrmd/supabase-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
 
-## Activity
+## Receipts
 
 <p align="center">
   <picture>
@@ -78,10 +88,10 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-light.svg" width="100%" alt="A snake eating my GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-light.svg" width="100%" alt="A snake eating my contribution graph" />
 </picture>
 
-## Tech stack
+## Stuff I use
 
 <table>
   <tr>
@@ -106,7 +116,7 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
   </tr>
 </table>
 
-## Get in touch
+## Say hi
 
 <a href="https://peal.social"><img src="https://img.shields.io/badge/peal.social-415EEE?style=for-the-badge&logoColor=white" alt="peal.social" /></a>
 <a href="https://linkedin.com/in/maximebrmd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
