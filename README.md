@@ -4,7 +4,15 @@
   <img src="assets/banner-light.svg" width="100%" alt="Maxime Bourmaud. Founder of Peal, contributor to Lilo." />
 </picture>
 
-French software engineer based in Helsinki. I'm building Peal, a social media scheduler for teams, and tools that help AI agents work alongside people. On the side, I make Gloups, an AI health companion.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=CBBDFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=6A4BE0" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&center=true&vCenter=true&width=640&height=40&lines=Building+Peal%2C+a+social+media+scheduler+for+teams;Writing+CLIs+for+coding+agents;Contributing+to+Lilo%2C+a+Mac+browser+on+WebKit;Making+Gloups+on+the+side&color=6A4BE0" alt="Building Peal, writing CLIs for coding agents, contributing to Lilo, making Gloups on the side" />
+  </picture>
+</p>
+
+French software engineer based in Helsinki. I'm building Peal, a social media scheduler for teams. I also write CLIs that let coding agents use Notion and Supabase, and on the side I make Gloups, an AI health companion.
 
 ## What I'm working on
 
@@ -18,7 +26,7 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
       </picture>
       <h3>Peal</h3>
       <sub><b>FOUNDER</b></sub>
-      <p>Schedule social posts with your team. Peal is fair source, so you can also run it yourself, and it ships SDKs in eight languages.</p>
+      <p>Schedule social posts with your team. Peal is fair source, so you can also run it yourself, and it has SDKs for eight languages.</p>
       <p><a href="https://peal.social">peal.social</a></p>
     </td>
     <td width="33%" valign="top">
@@ -46,12 +54,32 @@ French software engineer based in Helsinki. I'm building Peal, a social media sc
 
 ## Open source
 
-Agent-ergonomic CLIs that give coding agents token-efficient access to the tools they need.
-
 | Project | What it does | Stars |
 | --- | --- | --- |
-| **[notion-axi](https://github.com/maximebrmd/notion-axi)** | Search, read and write Notion pages and databases from an agent | ![Stars](https://img.shields.io/github/stars/maximebrmd/notion-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
+| **[peal](https://github.com/peal-social/peal)** | The Peal app and its SDKs for TypeScript, Python, Go, Java, C#, Ruby, PHP and Rust. Fair source, SDKs under Apache 2.0 | ![Stars](https://img.shields.io/github/stars/peal-social/peal?style=flat-square&label=%E2%98%85&color=6a4be0) |
+| **[notion-axi](https://github.com/maximebrmd/notion-axi)** | Lets a coding agent search, read and write Notion pages and databases on a small token budget | ![Stars](https://img.shields.io/github/stars/maximebrmd/notion-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
 | **[supabase-axi](https://github.com/maximebrmd/supabase-axi)** | Wraps the Supabase CLI and Management API for coding agents | ![Stars](https://img.shields.io/github/stars/maximebrmd/supabase-axi?style=flat-square&label=%E2%98%85&color=6a4be0) |
+
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=maximebrmd&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=CBBDFF&icon_color=B9A6FF&text_color=AEB3C1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=maximebrmd&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=6A4BE0&icon_color=415EEE&text_color=626773" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maximebrmd&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=6A4BE0&icon_color=415EEE&text_color=626773" height="165" alt="GitHub stats for maximebrmd" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=maximebrmd&hide_border=true&background=00000000&ring=CBBDFF&fire=FFCA00&currStreakNum=F7F8FC&sideNums=F7F8FC&currStreakLabel=CBBDFF&sideLabels=AEB3C1&dates=AEB3C1&stroke=3A3E4B" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=maximebrmd&hide_border=true&background=00000000&ring=6A4BE0&fire=FFCA00&currStreakNum=1F2025&sideNums=1F2025&currStreakLabel=6A4BE0&sideLabels=626773&dates=626773&stroke=E1E5EF" />
+    <img src="https://streak-stats.demolab.com?user=maximebrmd&hide_border=true&background=00000000&ring=6A4BE0&fire=FFCA00&currStreakNum=1F2025&sideNums=1F2025&currStreakLabel=6A4BE0&sideLabels=626773&dates=626773&stroke=E1E5EF" height="165" alt="GitHub contribution streak for maximebrmd" />
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/maximebrmd/maximebrmd/output/snake-light.svg" width="100%" alt="A snake eating my GitHub contribution graph" />
+</picture>
 
 ## Tech stack
 
@@ -80,4 +108,6 @@ Agent-ergonomic CLIs that give coding agents token-efficient access to the tools
 
 ## Get in touch
 
-Find me on [LinkedIn](https://linkedin.com/in/maximebrmd) and [X](https://x.com/maxime_bourmaud).
+<a href="https://peal.social"><img src="https://img.shields.io/badge/peal.social-415EEE?style=for-the-badge&logoColor=white" alt="peal.social" /></a>
+<a href="https://linkedin.com/in/maximebrmd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/maxime_bourmaud"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
