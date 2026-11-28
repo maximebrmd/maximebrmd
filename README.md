@@ -16,7 +16,6 @@ const maxime = {
 ## Projects
 
 - [Peal](https://peal.social): schedule social posts with your team. Fair source, with SDKs in eight languages.
-- [Gloups](https://gloups.app): an AI health companion with a food diary and a coach called Gloop.
 - [Lilo](https://getlilo.app): a free, open source Mac browser on WebKit. I'm the #2 contributor.
 - [notion-axi](https://github.com/maximebrmd/notion-axi): lets coding agents search, read and write Notion pages and databases.
 
